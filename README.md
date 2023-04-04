@@ -1,6 +1,6 @@
 Sou consultor de vendas  e  estou estudando html,css,javascrit,c#.
 - 📫 How to reach me: ...pierryshiny@hotmail.com
--
+
 <div align="center">
   <a href="https://github.com/professorlozano">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cirobarboza&show_icons=true&theme=radical"/>
