@@ -16,8 +16,9 @@ Sou consultor de vendas  e  estou estudando html,css,javascrit,c#.
   <img align="center" alt="Ciro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
 <div> 
+  <br>
 
-  
+  <br>
   <a href="https://www.instagram.com/ciroguto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ciro-augusto-barboza-7563512b/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
