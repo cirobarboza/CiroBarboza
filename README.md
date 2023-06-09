@@ -1,4 +1,4 @@
-Sou consultor de vendas  e  estou estudando html,css,javascrit,c#.
+Sou consultor de vendas  e  estou estudando html,css,javascrit,c#e .net.
 - 📫 How to reach me: ...pierryshiny@hotmail.com
 
 <div align="center">
