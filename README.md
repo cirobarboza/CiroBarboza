@@ -12,7 +12,7 @@ Sou consultor de vendas  e  estou estudando html,css,javascrit,c#e .net.
   <img align="center" alt="Ciro-CSS" height="33" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ciro-Js" height="33" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ciro-Csharp" height="33" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img aling="center"alt="Ciro-net" heigth="33" width= "42" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+  <img aling="center"alt="Ciro-net" heigth="33" width= "42" src =https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
           
  
 </div> 
