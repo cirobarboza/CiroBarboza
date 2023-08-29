@@ -1,5 +1,5 @@
-Sou consultor de vendas  e  estou estudando html,css,javascrit,c#e .net. 
-java
+Olá meu nome é Ciro Barboza sou consultor de vendas  e estou fazendo transição de carreira estudando html,css,javascrit,java. vou me trasformar um dev fullstack.
+
 - 📫 How to reach me: ...pierryshiny@hotmail.com
 
 <div align="center">
