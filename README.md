@@ -1,4 +1,4 @@
-Olá meu nome é Ciro Barboza sou consultor de vendas  e estou fazendo transição de carreira estudando html,css,javascrit,java. vou me trasformar um dev fullstack.
+Olá meu nome é Ciro Barboza sou consultor de vendas  e estou fazendo transição de carreira estudando html,css,javascrit,java. Vou me trasformar um dev fullstack.
 
 - 📫 How to reach me: ...pierryshiny@hotmail.com
 
@@ -13,6 +13,7 @@ Olá meu nome é Ciro Barboza sou consultor de vendas  e estou fazendo transiç�
   <img align="center" alt="Ciro-CSS" height="33" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ciro-Js" height="33" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ciro-Csharp" height="33" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Ciro-java" height="33" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/java-original.svg">
  
           
  
