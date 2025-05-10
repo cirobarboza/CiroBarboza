@@ -1,4 +1,4 @@
-Olá meu nome é Ciro Barboza sou consultor de vendas  e estou fazendo transição de carreira estudando html,css,javascrit,C#. Vou me trasformar um dev fullstack.
+Olá meu nome é Ciro Barboza sou consultor de vendas sou programador fullstack e estou fazendo transição de carreira estudei html,css,javascrit,C#. e flutter para dispositivos móveis um dev fullstack.
 
 - 📫 How to reach me: ...pierryshiny@hotmail.com
 
